@@ -156,4 +156,4 @@ Berdasarkan pengujian pada 20% data uji, diperoleh hasil akurasi dan visualisasi
 
 ## 3. Hasil Evaluasi dan Confusion Matrix)
 ![gambar](Gambar1.png)
-![gambar](Gambar2.png)
+![gambar](Gambar/Gambar2.png)
