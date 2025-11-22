@@ -146,5 +146,14 @@ Keterangan: Implementasi algoritma Random Forest, Gradient Boosting, dan mekanis
 Berdasarkan pengujian pada 20% data uji, diperoleh hasil akurasi dan visualisasi Confusion Matrix sebagai berikut:
 
 ## 3. Hasil Evaluasi dan Confusion Matrix
-![gambar](Screenshot 2025-11-22-065511.png)
-![gambar](Screenshot 2025-11-22-065521.png)
+![gambar](```
+
+Keterangan: Implementasi algoritma Random Forest, Gradient Boosting, dan mekanisme Voting menggunakan pustaka Scikit-Learn.
+
+# Hasil Evaluasi
+
+Berdasarkan pengujian pada 20% data uji, diperoleh hasil akurasi dan visualisasi Confusion Matrix sebagai berikut:
+
+## 3. Hasil Evaluasi dan Confusion Matrix)
+![gambar](Gambar1.png)
+![gambar](Gambar2.png)
