@@ -2,7 +2,7 @@
 | ----- | --------------------------------- |
 | Nama  | Dafa Alfiana Erlangga (312210446) |
 | Kelas | TI.22.A.SE.1                      |
-| Tugas | Tugas Pertemuan !0                |
+| Tugas | Tugas Pertemuan 10                |
 
 # PENDAHULUAN
 
